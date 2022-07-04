@@ -14,8 +14,3 @@ A utility to merge two .VCF files while editing the INFO tags considering the SN
 
 ### AUTHOR
 Veerendra Gadekar, RTH Copenhagen, contact [veer@rth.dk](mailto:veer@rth.dk) [gpveerendra09@gmail.com](mailto:gpveerendra09@gmail.com)
-
-### Copyright 2021
-
-Veerendra Gadekar veer@rth.dk
-
